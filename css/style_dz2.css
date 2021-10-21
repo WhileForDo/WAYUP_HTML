@@ -1,0 +1,37 @@
+ 
+
+.LogoImage{
+    height: 40px;
+}
+
+h1{
+    color: red;
+}
+h2{
+    color: white;
+    background: green;
+}
+.h2_green{ 
+    padding: 5px;
+}
+.h2_greenFat{ 
+    padding: 30px;
+}
+p span{
+    color: red;
+}
+.p_forms{
+    margin-left: 100px;
+}
+.blueBox{
+    width: 100px;
+    height: 85px;
+    background: blue;
+    color: white;
+    margin-bottom: 111px;
+
+}
+li{
+    border: 1px solid black;
+    font-size: 200%;
+}

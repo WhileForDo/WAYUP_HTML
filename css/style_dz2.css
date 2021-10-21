@@ -1,6 +1,4 @@
- 
-
-.LogoImage{
+ .LogoImage{
     height: 40px;
 }
 
@@ -11,9 +9,6 @@ h2{
     padding: 5px;
     color: white;
     background: green;
-}
-.h2_green{ 
-    padding: 5px;
 }
 .h2_greenFat{ 
     padding: 30px;
